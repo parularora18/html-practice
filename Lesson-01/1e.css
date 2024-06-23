@@ -1,0 +1,59 @@
+.add-to-cart-button{
+    background-color: rgb(255,216,20);
+    color: black;
+    border-radius: 15px;
+    height: 30px;
+    width: 130px;
+    cursor: pointer;
+    border: none;
+    margin-right:8px;
+    transition:opacity 0.15;
+}
+.add-to-cart-button:hover{
+    background-color: rgb(141, 141, 10);
+}
+.buy-now-button{
+    background-color: rgb(255,164,28);
+    color: black;
+    height: 30px;
+    width: 120px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+    transition:opacity 0.15;
+}
+.buy-now-button:hover{
+    background-color: rgb(228, 228, 77);
+
+}
+.title{
+   font-size:24px;
+   font-weight: bold;
+
+}
+.rupees{
+    color:rgb(0,118,0);
+    font-size:20px;
+    font-weight: bold;
+
+
+
+}
+.delievery{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.link{
+    color: rgb(0,113,133);
+}
+
+
+
+    
+
+
+
+
+
+
