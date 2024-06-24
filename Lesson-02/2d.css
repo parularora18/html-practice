@@ -1,0 +1,36 @@
+
+        .bootstrap-button{
+            background-color: rgb(121,82,179);
+            color:white;
+            height: 50px;
+            width: 140px;
+            cursor: pointer;
+            border: none;
+            font-weight:bold;
+            font-size: 14px;
+            transition:opacity 0.15;
+
+            
+
+        }
+        .bootstrap-button:hover{
+            background-color: black;
+            color: aqua;
+        }
+        .download-button{
+            background-color: white;
+           font-weight:bold;
+            color: gray;
+            cursor: pointer;
+            height: 50px;
+            width: 130px;
+            font-size: 14px;
+            transition:opacity 0.15;
+            
+        }
+        .download-button:hover{
+            background-color: brown;
+            color: chartreuse;
+        }
+        
+  

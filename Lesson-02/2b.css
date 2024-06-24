@@ -1,0 +1,19 @@
+
+    .Amazon-button{
+        background-color:rgb(255, 216, 20);
+    
+        color:black;
+        height:50px;
+        width:150px;
+        cursor:pointer;
+        border:none;
+         border-radius:80px;
+         font-style:bold;
+         transition: opacity 0.15;
+
+    }
+    .Amazon-button:hover{
+    background-color:rgb(255, 116, 9);
+    }
+
+
