@@ -1,0 +1,12 @@
+
+.stretch-button{
+ background-color:rgb(61, 151, 51);
+ padding-left: 25px;
+ padding-top: 12px;
+ padding-bottom: 12px;
+ padding-right: 25px;
+
+ font-size: 20px;
+ color: white;
+ border: none;
+}

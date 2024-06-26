@@ -1,0 +1,24 @@
+
+.shadow-button{
+    background-color: rgb(61, 151, 51);
+    transition:opacity0.15s;
+   transition:box-shadow0.15;
+    color:white;
+    padding-left: 25px;
+ padding-top: 12px;
+ padding-bottom: 12px;
+ padding-right: 25px;
+ border: none;
+ font-size: 20px;
+ cursor:pointer;
+
+    
+    
+
+
+
+}
+.shadow-button:hover{
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15);
+    opacity:10px
+}

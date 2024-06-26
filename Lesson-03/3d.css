@@ -1,0 +1,48 @@
+
+    .one-button{
+        background-color:  rgb(61, 151, 51);
+        margin-right: 8px;
+        margin-left: 8px;
+        color: white;
+        padding-left: 8px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 8px;
+     border: none;
+     font-size: 20px;
+     cursor:pointer;
+
+       
+    
+    }
+    .Two-button{
+        background-color:  rgb(61, 151, 51);
+        margin-right: 8px;
+        margin-left: 8px;
+        color: white;
+        padding-left: 8px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 8px;
+     border: none;
+     font-size: 20px;
+     cursor:pointer;
+
+    }
+    .Three-button{
+        background-color:  rgb(61, 151, 51);
+      
+        margin-left: 8px;
+        color: white;
+        padding-left: 8px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 8px;
+     border: none;
+     font-size: 20px;
+     cursor:pointer;
+
+    }
+    
+
+    
