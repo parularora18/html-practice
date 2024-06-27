@@ -1,0 +1,52 @@
+
+.numbers{
+    font-size:35px;
+  
+    text-align: center;
+    font-family: arial;
+    margin-bottom:0px;
+
+
+
+}
+.thinking{
+    color: grey;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom:0px;
+
+}
+.green{
+    color:green;
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.red{
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    font-family: arial;
+    margin-bottom:0px;
+    margin-top: 0px;
+
+
+}
+.change{
+    color: grey;
+    font-family: arial;
+    margin-top: 0px;
+    text-align: center;
+}
+.title{
+    color: red;
+    font-family: arial;
+    margin-top: 0px;
+    text-align: center;
+
+}
+

@@ -1,0 +1,45 @@
+
+.one{
+    color: rgba(245, 163, 39, 0.889);
+    font-family: arial;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.mac{
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    font-size:25px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.super{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 5px;
+    width:100%;
+    margin-bottom: 2px;
+    
+}
+.rupee{
+    text-align: center;
+    font-family:arial;
+    margin-top:10px;
+    color: rgba(0, 0, 0, 0.973);
+}
+.buy{
+    background-color: rgb(0, 113, 227);
+color: white;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 30px;
+font-weight: bold;
+cursor: pointer;
+
+
+}
+

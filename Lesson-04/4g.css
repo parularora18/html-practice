@@ -1,0 +1,38 @@
+
+.code{
+    font-family: arial;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: black;
+    font-size: 22px;
+   
+}
+.free{
+    color: gray;
+    margin-bottom: 5px;
+    font-size: 22px;
+    margin-bottom: 3px;
+    font-weight: normal;
+    
+   
+    
+    
+
+}
+.booster{
+    width: 40%;
+    font-size: 20px;
+    font-family: arial;
+    margin-top: 3px;
+
+}
+.computer{
+    font-size: 20px;
+    font-family: arial;
+    margin-top: 8px;
+
+}
+.tonight{
+    color:rgb(70, 193, 241);
+    cursor: pointer;
+}
