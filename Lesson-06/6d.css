@@ -1,0 +1,18 @@
+
+.create{
+    border-radius: 8px;
+    height: 26px;;
+    font-size: 16px;
+    padding-left:15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 15px;
+    color: grey;
+    
+    border-width: 1px;
+    border-style: solid;
+border-color: rgb(200, 200, 200);
+
+
+
+}

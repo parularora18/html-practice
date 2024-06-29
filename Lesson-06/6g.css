@@ -1,0 +1,33 @@
+.run{
+    width: 300px;
+   
+    vertical-align:middle;
+    border: none;
+    margin-top: 0px;
+    font-size: 18px;
+    
+    
+}
+.control{
+    background-color: rgb(46, 160, 225);
+    color: white;
+    width: 95px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight:bold;
+    margin-top: 0px;
+    vertical-align: middle;
+
+
+}
+.cat{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-right: 5px;
+  
+}

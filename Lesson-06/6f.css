@@ -1,0 +1,35 @@
+.color{
+    color: rgb(76, 76, 76);
+    font-family: arial;
+    margin-bottom: 8px;
+    margin-top: 2px;
+   
+   
+}
+.learn{
+   
+    border-radius: 4px;
+    width: 23%;
+    height: 25px;
+    border-style: solid;
+    border-width: 2px;
+    
+}
+.press{
+    color: rgb(76, 76, 76);
+    font-family: arial;
+    font-size: 14px;
+
+
+
+}
+.room{
+    border-radius: 80px;
+    background-color:  #026bb6;
+    color: white;
+    width: 368px;
+    height: 52px;
+    font-size: 18px;
+    border: none;
+
+}
