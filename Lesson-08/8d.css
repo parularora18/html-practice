@@ -1,0 +1,29 @@
+
+
+.quick{
+    background-color: black;
+    width: 380px;
+    height: 120px;
+
+}.music{
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+    padding-left: 18px;
+    padding-top: 25px;
+    margin-bottom: 15px;
+    padding-right: 15px;
+}
+.desktop{
+    color: rgb(119, 118, 118);
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 18px;
+    margin-top: 5px;
+    
+    padding-right: 15px;
+    margin-bottom: 2px;
+}
+    
+
