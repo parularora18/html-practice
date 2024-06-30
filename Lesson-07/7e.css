@@ -1,0 +1,67 @@
+.budget{
+    font-size:40px;
+    
+    margin-bottom: 40px;
+    font-family: arial;
+
+
+}
+.division{
+    color: rgb(94, 94, 94);
+    background-color: rgb(241, 238, 238);
+    display: block;
+    width: 360px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    margin-bottom: 8px;
+    border: none;
+    font-size: 15px;
+
+}
+.role{
+    color: rgb(94, 94, 94);
+    background-color: rgb(241, 238, 238);
+    display: block;
+    width: 360px;
+    padding-left: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 20px;
+    margin-bottom: 8px;
+    border: none;
+    font-size: 15px;
+    margin-top: 5px;
+  
+
+}
+.ride{
+    background-color: black;
+    color:white;
+    padding-left: 3px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 8px;
+    width: 140px;
+    margin-top: 25px;
+    display: inline-block
+   
+    
+}
+.dash{
+    background-color: rgb(238, 234, 234);
+    color: black;
+    padding-left: 10px;
+    padding-top: 16px;
+    padding-bottom: 18px;
+    padding-right: 10px;
+    width: 155px;
+    margin-top: 25px;
+    display: inline-block;
+    margin-left: 18px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+
+}
