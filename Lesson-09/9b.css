@@ -1,0 +1,125 @@
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
+
+
+.white-cat{ 
+    display: inline-block;
+    margin-left: 10px;
+   
+}
+    
+
+    .image{
+        width: 70px;
+    height: 70px;
+    border-radius: 50%;
+        
+    }
+    .one{
+        font-weight: bold;
+    }
+    .two{
+        color: gray;
+    }
+    .three{
+        color: gray;
+    }
+
+.box{
+    font-family: arial;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 10px;
+
+   
+
+
+}
+
+.blue{
+    background-color: rgb(11, 181, 249);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    color: white;
+    vertical-align:top;
+    border-radius: 5px;
+    font-size: 15px;
+   
+}
+.follow-button{
+    display: inline-block;
+    margin-left: 198px;
+    margin-top: 2px;
+   
+    
+}
+.box-second{
+    display: inline-block;
+    font-size: 18px;
+    font-family: arial;
+}
+.orange-cat{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+.follows-button{
+    display: inline-block;
+    margin-left: 185px;
+}
+.first{
+    font-weight: bold;
+
+}
+.second{
+    color: gray;
+}
+.third{
+    color: gray;
+    
+}
+.brown-cat{
+    display: inline-block;
+}
+.box-third{
+    display: inline-block;
+    font-size: 18px;
+    font-family: arial;
+
+}
+.first-one{
+    font-weight: bold;
+
+}
+.second-two{
+    color: gray;
+}
+.third-three{
+    color: gray;
+
+}
+.cat-picture{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.right-button{
+    display: inline-block;
+    margin-left: 150px;
+
+}
+.big-box{
+    display: block;
+}
+

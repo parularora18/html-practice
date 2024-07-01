@@ -1,0 +1,78 @@
+.taught-learn{
+    display: inline-block;
+}
+.para{
+    display: inline-block;
+    overflow: auto;
+    margin-left: 10px;
+    
+   
+}
+.learning{
+    width: 180px;
+    height: 100px;
+    margin-top: 5px;
+}
+.learn-self{
+    display: inline-block;
+   
+}
+
+
+    
+
+.dev{
+    color: rgb(112, 110, 110);
+  
+
+}
+.ago{
+    color: rgb(112, 111, 111);
+    
+
+}
+.first-para{
+    font-weight: bold;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+p{
+    margin-bottom: 8px;
+    margin-top: 4px;
+    font-family: Arial;
+}
+.simple{
+    margin-bottom: 2px;
+
+}
+
+.degree{
+    font-weight: bold;
+    font-size: 15px;
+}
+.super{
+    color: gray;
+
+}
+.months{
+    color: gray;
+
+}
+
+.img-picture{
+    display: inline-block;
+}
+.para-two{
+    display: inline-block;
+    margin-left: 10px;
+    overflow: auto;
+}
+.learn-self{
+    display: block;
+}
+.para-third{
+    display: inline-block;
+    margin-left: 10px;
+    overflow: auto;
+}
+
