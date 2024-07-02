@@ -1,0 +1,66 @@
+.challenge-exercise{
+    border: 1px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    height: 140px;
+    width: 500px;
+    border-color: gray;
+}   
+.gray-header{
+    color: gray;
+    display: block;
+    font-size: 12px;
+    margin-left:15px;
+    font-family: arial;
+   padding-top: 15px;
+}
+.left-cat{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+p{
+    margin-top: 8px;
+    margin-bottom: 8px;
+   
+}
+
+.first-para{
+    color: gray;
+    font-size: 15px;
+
+}
+.row-one{
+    font-weight: bolder;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+.middle-para{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: arial;
+    align-items: center;
+   
+  
+}
+.time-clock{
+    color: gray;
+    margin-left: 50px;
+    font-family: arial;
+    font-size: 13px;
+    margin-top: -20px;
+   
+}
+
+
+

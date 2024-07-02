@@ -1,0 +1,73 @@
+.container-picture{
+    border: 1px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    height: 300px;
+    width: 490px;
+    border-color: gray;
+    font-family: arial;
+    font-size: 15px;
+ 
+    
+}
+.inboxes{
+    color: gray;
+    display: block;
+    margin-left: 10px;
+  padding-top: 15px;
+  font-size: 13px;
+  margin-bottom: 10px;
+   
+}
+.one-container{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.second-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+
+
+}
+.third-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.first-cat{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+.first-line{
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
+.second-line{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.third-line{
+    color: gray;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.middle-container{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.time{
+    font-size: 13px;
+    color: gray;
+    padding-top: 8px;
+    padding-left: 90px;
+}
