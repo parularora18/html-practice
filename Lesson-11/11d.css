@@ -1,0 +1,17 @@
+.left{
+    
+    background-color: pink;
+}
+.right{
+    
+    background-color: pink;
+}
+.box-border{
+    height: 50px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

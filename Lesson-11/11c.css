@@ -1,0 +1,9 @@
+.Flex-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.light-pink{
+    background-color: lightpink;
+}

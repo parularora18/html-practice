@@ -1,0 +1,46 @@
+.Purple-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: arial;
+    font-size: 20px;
+    background-color: rgb(120, 82, 178);
+    align-items: center;
+    width: 800px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    
+}
+.White-text{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    
+}.Message{
+    background-color: white;
+    width: 500px;
+    color: gray;
+    border-radius: 15px;
+    height: 30px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    align-items: center;
+    border: none;
+    padding-left: 20px;
+}
+.Click{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color:  rgb(120, 82, 178);
+    border-color: white;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    color: white;
+    font-size: 16px;
+    border-radius: 2px;
+
+}

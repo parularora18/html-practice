@@ -1,0 +1,61 @@
+.Circle-cat{
+    display: flex;
+    border-radius: 25px;
+   width: 50px;
+   height: 50px;
+   object-fit: cover;
+   margin-left: 10px;
+    
+   
+}
+
+    .First-cat{
+        display: flex;
+        align-items: center;
+       margin-bottom: 20px;
+       flex-direction: row;
+      
+    }
+
+.para{
+   
+    font-size: 14px;
+    font-family: arial;
+    justify-content: space-between;
+    flex-direction: rows;
+    padding-left: 10px;
+    width: 200px;
+
+
+}
+.para-one{
+    font-weight: bold;
+}
+.para-two{
+    color: gray;
+    padding-left: 6px;
+}
+.para-three{
+    color: gray;
+    padding-left: 6px;
+}
+
+.Follow-blue{
+    background-color: rgb(28, 154, 233);
+    color: white;
+    border-radius: 5px;
+    justify-content: space-between;
+    margin-left: 190px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
