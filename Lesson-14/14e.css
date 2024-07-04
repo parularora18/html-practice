@@ -1,0 +1,36 @@
+.picture-cloth{
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    position: relative;
+    border: 1px;
+    border-color: rgb(236, 233, 233);
+    border-style: solid;
+
+}
+.blue{
+    width: 380px;
+    height: 320px;
+   margin-left: 8px;
+   margin-top: 10px;
+    border: 1px;
+    border-color: rgb(236, 233, 233);
+    border-style: solid;
+   
+    object-fit: cover;
+
+}
+.discount{
+    background-color: black;
+    color: white;
+    top: 30px;
+    right: 12px;
+    font-family: arial;
+    font-size: 15px;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}

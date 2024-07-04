@@ -1,0 +1,16 @@
+.close-button{
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 15px;
+    right: 15px;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    font-family: Arial;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
