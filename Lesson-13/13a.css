@@ -1,0 +1,11 @@
+.fixed{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+
+}
+body{
+    margin-bottom: 1000px;
+}
